@@ -17,5 +17,13 @@ Login | Roster | Recall List | Settings
 # Purpose
 Telestaff as a terrible web interface.  The mobile web interface is even more crippled than the desktop version.
 
+This app's features:
+* Roster organized by Area (Date may be chosen, defaults to today)
+* Color coding by job title 
+* Colors may be adjusted in Settings
+* Vacancies displayed, if activated in Settings
+* Recall list (Date may be chosen, defaults to today)
+* Data reloads may be requested with the refresh button
+
 
 
